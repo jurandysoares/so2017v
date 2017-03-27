@@ -5,11 +5,11 @@
 * Um misterioso
 
 ## O que eu gosto de fazer
-* EStudar
-* Gosto 2
-* Gosto 3
+* Lutar pelos meus objetivos
+* Comer
+* Aprender cada vez mais
 
 ## O que sei fazer bem
-* Comer 1
-* Comer 2
-* Trabalhar 3
+* Trabalhar
+* Palestras
+* Organizar
