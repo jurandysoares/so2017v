@@ -10,6 +10,5 @@
 * Aprender cada vez mais
 
 ## O que sei fazer bem
-* Trabalhar
-* Palestras
-* Organizar
+* Trabalhar 
+* Organizar Eventos 
