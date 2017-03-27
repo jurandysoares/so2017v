@@ -6,9 +6,12 @@
 
 ## O que eu gosto de fazer
 * Lutar pelos meus objetivos
-* Comer
+* 
 * Aprender cada vez mais
 
 ## O que sei fazer bem
 * Trabalhar 
 * Organizar Eventos 
+
+## Qual o meu objetivo
+* Passar na ESPCEX [http://www.espcex.ensino.eb.br/]()
