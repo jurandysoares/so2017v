@@ -14,4 +14,4 @@
 * Organizar Eventos 
 
 ## Qual o meu objetivo
-* Passar na ESPCEX [http://www.espcex.ensino.eb.br/]()
+* Passar na [ESPCEX](http://www.espcex.ensino.eb.br/)
